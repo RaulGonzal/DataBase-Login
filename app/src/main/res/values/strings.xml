@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Dog Registration</string>
+    <string name="petcare">PetCare</string>
+    <string name="pet_registration_form">Pet Registration Form</string>
+    <string name="microchip_id">Microchip ID</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="email_address">Email Address</string>
+    <string name="access_code">Access Code</string>
+    <string name="confirm_code">Confirm Code</string>
+    <string name="breed">Breed</string>
+    <string name="neutered">Neutered</string>
+    <string name="is_neutered">Is Neutered?</string>
+    <string name="reset">RESET</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="chips">
+        <item>DA92384</item>
+        <item>5213A4EGAL</item>
+        <item>78EX8937</item>
+        <item>AAMOCS3</item>
+    </string-array>
+    <string-array name="breed_array">
+        <item>N/A</item>
+        <item>Husky</item>
+        <item>Labrador</item>
+        <item>Pit Bull</item>
+        <item>Australian Shepard</item>
+        <item>German Shepard</item>
+        <item>Bull Dog</item>
+        <item>other.</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

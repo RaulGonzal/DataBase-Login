@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Pet_care" type="id" />
+    <item name="form_label" type="id" />
+    <item name="micro_label" type="id" />
+    <item name="micro_textEdit" type="id" />
+    <item name="name_label" type="id" />
+    <item name="name_textEdit" type="id" />
+    <item name="gender_radio_label" type="id" />
+    <item name="gender_radioGroup" type="id" />
+    <item name="male_radioButton" type="id" />
+    <item name="female_radioButton" type="id" />
+    <item name="email_label" type="id" />
+    <item name="email_textEdit" type="id" />
+    <item name="accessCode_label" type="id" />
+    <item name="accessCode_textEdit" type="id" />
+    <item name="confirmCode_label" type="id" />
+    <item name="confirmCode_textEdit" type="id" />
+    <item name="breed_label" type="id" />
+    <item name="breed_spinner" type="id" />
+    <item name="neutered_label" type="id" />
+    <item name="neutered_checkbox" type="id" />
+    <item name="reset_button" type="id" />
+    <item name="submit_button" type="id" />
+</resources>
